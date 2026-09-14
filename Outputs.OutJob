@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Outputs.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -48,7 +48,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\GIT\2F_2023-Buttons\Schematic.SchDoc
 OutputType2=Gerber
-OutputName2=CO_sensor_v3 - Gerber
+OutputName2=BleedR - Gerber
 OutputCategory2=Fabrication
 OutputDocumentPath2=
 OutputVariantName2=
@@ -61,7 +61,7 @@ OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\GIT\2F_Mark_II_HW\NFC Reader\PCB_v2.PcbDoc
 OutputType3=NC Drill
-OutputName3=CO_sensor_v3 - NC Drill
+OutputName3=BleedR - NC Drill
 OutputCategory3=Fabrication
 OutputDocumentPath3=
 OutputVariantName3=
@@ -74,7 +74,7 @@ OutputDefault3=0
 Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\GIT\CO_sensor_PCB_v3\PCB.PcbDoc
 OutputType4=BOM_PartType
-OutputName4=CO_sensor_v3 - BOM
+OutputName4=BleedR - BOM
 OutputCategory4=Report
 OutputDocumentPath4=
 OutputVariantName4=
@@ -98,7 +98,7 @@ Configuration4_Item5=Quantity=53|Part Number=186|Comment=120|Footprint=120|Descr
 Configuration4_Name6=VisibleOrder_Flat
 Configuration4_Item6=Quantity=53|Part Number=186|Comment=120|Footprint=120|Description=196|Designator=120
 OutputType5=BOM_PartType
-OutputName5=CO_sensor_v3- JLCPCB_BOM
+OutputName5=BleedR - JLCPCB_BOM
 OutputCategory5=Report
 OutputDocumentPath5=
 OutputVariantName5=
@@ -189,7 +189,7 @@ Configuration6_Name27=OutputConfigurationParameter27
 Configuration6_Item27=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical21|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Altium\Projects\LCD_demo_v2\LCD_demo_v2.pcbDoc
 PcbPrintPreferences6=
 OutputType7=Pick Place
-OutputName7=CO_sensor_v3- JLCPCB_CPL
+OutputName7=BleedR - JLCPCB_CPL
 OutputCategory7=Assembly
 OutputDocumentPath7=
 OutputVariantName7=

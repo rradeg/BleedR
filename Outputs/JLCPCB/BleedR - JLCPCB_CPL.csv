@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\GIT\BleedR\Outputs\JLCPCB\BleedR - JLCPCB_CPL.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       14.09.26
+Time:       09:19
+Revision:   df537fa1b0ffe0a69a9637814c01bf9f6b093411
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation"
+"K1","54.7750mm","63.0000mm","TopLayer","0"
+"K2","78.2250mm","63.0000mm","TopLayer","180"
+"R1","62.8000mm","65.4000mm","TopLayer","90"
+"R2","65.3000mm","65.4250mm","TopLayer","90"
+"R3","67.8000mm","65.4000mm","TopLayer","90"
+"R4","70.3000mm","65.4000mm","TopLayer","90"
+"R5","62.8000mm","60.7000mm","TopLayer","270"
+"R6","65.3000mm","60.7000mm","TopLayer","270"
+"R7","67.8000mm","60.7000mm","TopLayer","270"
+"R8","70.3000mm","60.7000mm","TopLayer","270"
